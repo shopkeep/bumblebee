@@ -1,0 +1,16 @@
+{
+  "name": "bumblebee-server",
+  "version": "1.0.0",
+  "description": "A server that connects to an arduino with a stepper driver.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Reiaz Gafar",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "express": "^4.16.4",
+    "johnny-five": "^1.0.0"
+  }
+}
