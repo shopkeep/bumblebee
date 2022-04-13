@@ -1,5 +1,5 @@
 {
-  "name": "bumblebee-server",
+  "name": "@shopkeep/bumblebee-server",
   "version": "1.0.0",
   "description": "A server that connects to an arduino with a stepper driver.",
   "main": "app.js",
