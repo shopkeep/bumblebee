@@ -11,6 +11,6 @@
   "private": true,
   "dependencies": {
     "express": "^4.16.4",
-    "johnny-five": "^1.0.0"
+    "johnny-five": "^2.1.0"
   }
 }
