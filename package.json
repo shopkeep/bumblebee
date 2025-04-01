@@ -10,7 +10,7 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^5.1.0",
     "johnny-five": "^2.1.0"
   }
 }
